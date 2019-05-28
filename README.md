@@ -2,5 +2,9 @@
 
 date: 2019-05-28
 
-author: BG
+author: B Grote
 
+content: 
+- pandas
+- urllib
+- json
